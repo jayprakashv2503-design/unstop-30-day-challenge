@@ -1,0 +1,10 @@
+--- Day 2 Recall Notes ---
+Problem: The Museum Ticket Budget
+Topics Covered: Arrays, Sliding Window, Two Pointers
+
+Key Logic/Algorithm used: 
+- [Decode the sliding window logic yourself and write it here!]
+- Hint: Think of `left` and `right` as the start and end of Meera's trip. How do you adjust `left` when the cumulative cost of the trip (`current_spend`) becomes greater than her budget?
+
+Time Complexity: O(n) - Both the `left` and `right` pointers only move forward, meaning each element is processed at most twice.
+Space Complexity: O(1) - No extra data structures are used that scale with input size (excluding the input vector).

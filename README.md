@@ -16,3 +16,20 @@ Aarav works the night shift at the Aranya Deep Space Relay Station. Mission prot
 ```cpp
 // See Day1.cpp
 ```
+# Day 2: The Museum Ticket Budget
+
+## Problem Statement
+Meera has `n` days scheduled in a city and a total budget `B` for museum entry fees. Each day has a fixed entry fee. She wants to find the maximum number of consecutive days she can tour museums without her total spending on that streak exceeding `B`.
+
+**Constraints:**
+- 1 <= n <= 200000
+- 1 <= cost[i] <= 10^9
+- 1 <= B <= 10^15
+
+## Approach
+- [Your logic goes here after decoding]
+
+## Code Snippet
+```cpp
+// See Day2.cpp
+```
